@@ -7,4 +7,4 @@
 스파르타 코딩클럽 6기 과정 프로젝트
 
 ## 주소
-https://go.aws/2HSYPPd
+http://netflixreview.shop
